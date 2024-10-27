@@ -1,0 +1,12 @@
+
+
+.btn{
+    border-radius: 0.625rem;
+    background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+    color: #FFFFFF;
+    padding: 1.13rem 1.19rem;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-size: 1.25rem;
+    font-weight: 700;
+
+}
