@@ -10,3 +10,9 @@
     font-weight: 700;
 
 }
+
+
+.bg-cart{
+    border-radius: 0.625rem;
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0.00) 100%);
+}
